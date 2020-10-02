@@ -1,3 +1,3 @@
 # BudgetCheck
-### Manage your Expances through Budget Check.
+### Manage your Expenses through Budget Check.
  https://incom-expence-tracker.netlify.app/
